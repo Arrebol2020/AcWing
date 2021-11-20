@@ -1,5 +1,5 @@
 # AcWing Course notes and homework
-current update level 1: 语法基础课
+当前更新: [语法基础课](./level1)
 # TODO
 - 算法基础课
 - 算法提高课
